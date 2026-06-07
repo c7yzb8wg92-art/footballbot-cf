@@ -1,0 +1,12 @@
+{
+  "name": "footballbot-cf",
+  "version": "1.0.0",
+  "description": "FootballWorlds Telegram bot on Cloudflare Workers",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.0"
+  }
+}
