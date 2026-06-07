@@ -1,4 +1,4 @@
-name = "footballbot-cf"
+name = "footballworlds-bot-cf"
 main = "worker.js"
 compatibility_date = "2024-09-23"
 
